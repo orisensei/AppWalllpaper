@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7f392ba193434b9418954cd36167dcff
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Elsie
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 25494258b44ad144a9c45ffed98bbd11, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 983b1e5e557e74a4f915909eb87a461c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Black Cat
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f2b7af9688dd83b4283f6b420517f0b0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
